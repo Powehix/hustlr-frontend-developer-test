@@ -1,6 +1,6 @@
-# Front-end Developer Test – Based on the Existing E-commerce Project
+# Hustlr Front-End Developer Test
 
-This is a test implementation of a responsive Product Card UI based on the provided eCommerce project template by Hustlr.
+A simple implementation of a responsive Product Card UI based on the provided eCommerce project template by Hustlr.
 
 ## Demo
 
